@@ -5,6 +5,8 @@ Submitted by: James Kor
 
 The Photo Scavenger Hunt App is an app that allows you to put in different places on a map that corresponds to a description that you give it.
 
+**The app is under the lab folder name, the files were not able to be renamed.
+
 Time spent: 1 hours spent in total
 
 ## Required Features
