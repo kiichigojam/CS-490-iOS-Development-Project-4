@@ -31,6 +31,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://submissions.us-east-1.linodeobjects.com/ios102/cRDc0Opx.gif
+
 <img src='https://submissions.us-east-1.linodeobjects.com/ios102/cRDc0Opx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
