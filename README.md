@@ -31,20 +31,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://submissions.us-east-1.linodeobjects.com/ios102/cRDc0Opx.gif
+https://imgur.com/a/KBrXlQv
 
-<img src='https://submissions.us-east-1.linodeobjects.com/ios102/cRDc0Opx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/KBrXlQv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Screen Recorder by Omi. 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 N/A
 
